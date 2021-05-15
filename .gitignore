@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+env_covid/
 .Python
 build/
 develop-eggs/
@@ -16,6 +17,10 @@ eggs/
 .eggs/
 lib/
 lib64/
+share/
+bin/
+include/
+[Ll]ib64
 parts/
 sdist/
 var/
