@@ -15,12 +15,14 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+etc/
+Lib/
 lib64/
 share/
 bin/
 include/
-[Ll]ib64
+[Ll]ib64/
+[Ss]cripts/
 parts/
 sdist/
 var/
@@ -31,6 +33,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.vscode/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -132,3 +135,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/table-indicateurs-open-data-dep-2021-06-01-19h05.csv
